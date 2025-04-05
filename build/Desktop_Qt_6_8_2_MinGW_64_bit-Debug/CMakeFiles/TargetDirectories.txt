@@ -1,0 +1,5 @@
+C:/Users/amatt/Documents/cpp-projects/NetworkSniffer/build/Desktop_Qt_6_8_2_MinGW_64_bit-Debug/CMakeFiles/NetworkSniffer.dir
+C:/Users/amatt/Documents/cpp-projects/NetworkSniffer/build/Desktop_Qt_6_8_2_MinGW_64_bit-Debug/CMakeFiles/edit_cache.dir
+C:/Users/amatt/Documents/cpp-projects/NetworkSniffer/build/Desktop_Qt_6_8_2_MinGW_64_bit-Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/amatt/Documents/cpp-projects/NetworkSniffer/build/Desktop_Qt_6_8_2_MinGW_64_bit-Debug/CMakeFiles/NetworkSniffer_autogen_timestamp_deps.dir
+C:/Users/amatt/Documents/cpp-projects/NetworkSniffer/build/Desktop_Qt_6_8_2_MinGW_64_bit-Debug/CMakeFiles/NetworkSniffer_autogen.dir
